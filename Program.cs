@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Configuration;
 
-// cd dotnet-projects\Tracker\activity-tracker\bin\Debug\net8.0
 namespace activity_tracker
 {
     class Program
